@@ -1,4 +1,4 @@
 console.log("cherry 2");
 console.log("cherry 4");
-console.log("hi realy ?")
-console.log("bye really ?");
+console.log("hello")
+console.log("bye see ya!");
